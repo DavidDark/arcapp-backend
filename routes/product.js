@@ -13,7 +13,7 @@ router.get('/', [], async (req, res) => {
         {
             nombre: "REYMA CONTENEDOR 7X7 LISO HC771 PZ",
             existencias: 300,
-            area: "desechables|tienda",
+            area: "tapanco|tienda",
             ubicacion: "N2|R0-N4|R1-N4",
             matriz: 300
         },
@@ -59,7 +59,7 @@ router.get('/find/:nombre', [], async (req, res) => {
         {
             nombre: "REYMA CONTENEDOR 7X7 LISO HC771 PZ",
             existencias: 300,
-            area: "desechables|tienda",
+            area: "tapanco|tienda",
             ubicacion: "N2|R0-N4|R1-N4",
             matriz: 300
         },
